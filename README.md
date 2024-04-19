@@ -1,2 +1,2 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=29&pause=1000&color=DF3030&background=10101000&center=true&vCenter=true&random=false&width=435&lines=Hi!+I'm+Fergie+Doigrales.+%F0%9F%90%87;+I+am+a+student+at+ITMO+University%2C+%E2%9D%A4%EF%B8%8F;faculty+of+Software+Engineering.+%F0%9F%90%B0)](https://git.io/typing-svg)
-![Иллюстрация](https://github.com/FergieDoigrales/itmo-labs/blob/main/RndmPctr.png](https://github.com/FergieDoigrales/FergieDoigrales/blob/main/1612929307_139-p-krasnii-fon-vk-173.jpg)
+![Иллюстрация](https://github.com/FergieDoigrales/FergieDoigrales/blob/main/1612929307_139-p-krasnii-fon-vk-173.jpg)
